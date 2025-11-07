@@ -32,7 +32,15 @@ bash run_exp.sh
 Please cite our work using:
 
 ```bibtex
-
+@misc{ahmed2025bappabenchmarkingagentsplans,
+      title={BAPPA: Benchmarking Agents, Plans, and Pipelines for Automated Text-to-SQL Generation}, 
+      author={Fahim Ahmed and Md Mubtasim Ahasan and Jahir Sadik Monon and Muntasir Wahed and M Ashraful Amin and A K M Mahbubur Rahman and Amin Ahsan Ali},
+      year={2025},
+      eprint={2511.04153},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2511.04153}, 
+}
 ```
 
 ## License
