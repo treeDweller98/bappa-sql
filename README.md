@@ -1,5 +1,8 @@
+# BAPPA: Benchmarking Agents, Plans, and Pipelines for Automated Text-to-SQL Generation
 
-# BAPPA: Bridging Agents, Plans, and Pipelines for Automated Text-to-SQL Generation
+[![arXiv](https://img.shields.io/badge/arXiv-2511.04153-b31b1b.svg)](https://arxiv.org/abs/2511.04153)
+
+This repository contains the source code for [BAPPA](https://arxiv.org/abs/2511.04153).
 
 ![Pipeline Overview](assets/pipelines.png)
 
